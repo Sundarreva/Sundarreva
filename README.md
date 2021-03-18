@@ -1,11 +1,13 @@
  <h4 align = "center"> 👋 Hello World, I’m @Sundarram </h4>
 - 👀 I’m a Graduate ECE Student and a Software Developer. 
 - 🌱 Well versed in Spring Framework ...
-### About Me..,
+
+:boom: About Me..,
 - Graduate student at RMK College of Engineering and Technology
 - I believe that the best code is one that is not written! Passionate about coding and solving real-life problems and bringing a change in the world.
 - My dream work environment would be one where i am thriving, contributing and making a positive difference in people's lives.
 - My goal is to be essential to the world, and convert my passion to work
+
 
 ### 💞️ Technincal Domain im working on ..,
 
