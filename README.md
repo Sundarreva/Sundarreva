@@ -1,4 +1,4 @@
-### 👋 Hello World, I’m @Sundarram
+- <h4 align = "center"> 👋 Hello World, I’m @Sundarram </h4>
 - 👀 I’m a Graduate ECE Student and a Software Developer. 
 - 🌱 Well versed in Spring Framework ...
 ### About Me..,
@@ -18,9 +18,7 @@
         
 ### 📫 Find me ElseWhere
 
--  [![Linkedin Logo](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sundarram-t-72687114b/)   
-- ![Gmail Logo](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white) sundarramreva@gmail.com
- 
+ [![Linkedin Logo](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sundarram-t-72687114b/)   
  
 <!---
 Sundarreva/Sundarreva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
